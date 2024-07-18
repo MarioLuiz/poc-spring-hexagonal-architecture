@@ -118,7 +118,6 @@ Thumbs.db
 */build
 
 # IntelliJ specific files/directories
-out
 atlassian-ide-plugin.xml
 
 # Eclipse specific files/directories
